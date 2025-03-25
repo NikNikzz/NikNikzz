@@ -9,6 +9,8 @@ Tenho conhecimentos em:
 **`Shell Script`**
 **`Cybersegurança`**
 **`MySQL`**
+**`HTML`**
+**`CSS`**
 
 
 ---
