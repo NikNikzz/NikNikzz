@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Nicolas Caraca Giorgione
+# 👩🏻‍💻 Nicolas Caraça Giorgione
 
 Olá! Meu nome é Nicolas, tenho 23 anos e atualmente sou estudante de Sistemas de Informação na FMU. Sou apaixonado por tecnologia, programação e segurança digital.
 
