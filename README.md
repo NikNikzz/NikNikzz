@@ -14,7 +14,7 @@ Tenho conhecimentos em:
 ---
 ### 🌐 Redes Sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/nicolasgiorgione)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />](https://br.linkedin.com/in/nicolasgiorgione)
 
 ### 🤖 Linguagens e Tecnologias
 
